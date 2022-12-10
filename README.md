@@ -14,6 +14,39 @@ Start building small projects in Rust to apply what you've learned and improve y
 
 Overall, the best way to get started with Rust is to install the Rust compiler and tools, read the Rust book and try the Rust by Example website, and then start building small projects to apply what you
 
+# How to learn rust.
+To learn how to code in Rust, you can start by following the official Rust tutorials and guides. These will help you understand the basics of the language and its syntax. After that, you can try to solve some problems or build small projects to apply what you've learned and improve your skills.
+
+Here are some resources to get you started:
+
+The official Rust documentation and tutorials: https://www.rust-lang.org/learn
+Rust by Example: https://doc.rust-lang.org/rust-by-example/
+The Rust programming language book: https://doc.rust-lang.org/book/
+Additionally, the Rust community is very active and friendly, so if you have any questions or need help, you can ask for help on the Rust forums or on the Rust community Discord server.
+
+To start coding in Rust, you will need to install the Rust compiler and tools on your system. You can do this by following the instructions on the official Rust website.
+
+Once you have the Rust compiler installed, you can create a new Rust project using the cargo command-line tool. Cargo is the official package manager and build tool for Rust. It can be used to create new projects, manage dependencies, build and run your code, and more.
+
+Here is an example of how to create a new Rust project using cargo:
+```bash
+cargo new my_project
+cd my_project
+cargo build
+cargo run
+```
+This will create a new Rust project in a directory named my_project, build the project, and run the project's binary executable.
+
+Once you have a working Rust project, you can start writing your code in the main.rs file in the src directory. This is the entry point for your Rust program, and it is where you can define your program's functionality and logic.
+
+Here is an example of a simple Rust program that prints "Hello, world!" to the terminal:
+```rust
+fn main() {
+    println!("Hello, world!");
+}
+```
+To run this program, you can use the cargo run command from the project's root directory. This will build and run your code, and you should see the "Hello, world!" message printed to the terminal.
+
 # What is rust?
 Rust is a programming language that was developed by Mozilla Foundation. It is a statically-typed, compiled language that is designed to be safe, concurrent, and fast.
 
