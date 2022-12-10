@@ -1,6 +1,9 @@
 # Rust
 This answers questions about the rust programming language. 
 
+# Wiki
+Please goto the [![twitter]](https://github.com/MiniHood/Rust/wiki)
+
 # How to get started with rust
 Install the Rust compiler and tools on your system by following the instructions on the official Rust website (https://www.rust-lang.org/). This will allow you to build and run Rust programs on your machine.
 
